@@ -9,7 +9,7 @@ You can easily customize the file organization to suit your needs:
 
 * Extensions by Category: File extensions are assigned to the following categories:
 * Images (png, jpeg, jpg)
-* Documents (txt, doc, odt)
+* Documents (txt, doc, odt, xlsx)
 * Audio (mp3, wav)
 * Avoided Extensions: You can specify file extensions to be avoided, 
   so they won't be moved to the destination folder.
