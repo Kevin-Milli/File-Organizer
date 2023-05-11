@@ -27,6 +27,7 @@ You can easily customize the file organization to suit your needs:
 ## Results
 
 The Automatic File Organizer simplifies the process of managing your files. 
+
 You'll be able to easily find your documents, images, and audio files, keeping everything neat and well-organized.
 
 ## Benefits
