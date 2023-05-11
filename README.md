@@ -17,8 +17,11 @@ You can easily customize the file organization to suit your needs:
 ## Usage
 
 1 Make sure you have a folder named "files" in the same directory as the script.
+
 2 Run the script to initiate the file organization process.
+
 3 A subfolder will be created for each category, and files will be automatically moved to their respective folders.
+
 4 All files will be listed in the "recap.csv" file in the main folder.
 
 ## Results
